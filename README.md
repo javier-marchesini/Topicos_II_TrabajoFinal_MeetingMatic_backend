@@ -1,4 +1,6 @@
-# meeting
+# # Trabajo Final - Meeting-o-Matic - FrontEnd
+### Tópicos II 2020 | Maestría en Ingeniería de Software | Universidad Nacional de La Plata
+
 
 This application is generated using [LoopBack 4 CLI](https://loopback.io/doc/en/lb4/Command-line-interface.html) with the
 [initial project layout](https://loopback.io/doc/en/lb4/Loopback-application-layout.html).
