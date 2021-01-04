@@ -1,0 +1,4 @@
+export enum MeetingType {
+  UNREGISTERED = "UNREGISTERED",
+  REGISTERED = "REGISTERED"
+}
